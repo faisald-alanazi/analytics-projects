@@ -169,3 +169,25 @@ Users expressed strong interest in:
 * Interview Framework
 * Statistical Analysis
 * Business Recommendations
+
+---
+
+# Research Visualizations
+
+## Top Motivations for Using AI Video Platforms
+
+![Top Motivations](images/Adoption%20Drivers1.png)
+
+---
+
+## Most Common AI Video Content Applications
+
+![Content Applications](images/Effectiveness%20by%20Use%20Case2.png)
+
+---
+
+## Consumer Concerns Regarding AI Video Platforms
+
+![Consumer Concerns](images/Ethical%20Concerns3.png)
+
+---
