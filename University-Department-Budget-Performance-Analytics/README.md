@@ -101,10 +101,11 @@ The dashboards improved financial transparency and provided stakeholders with a 
 
 ![Executive Budget Dashboard](images/executive-budget-dashboard.png)
 
-### Strategic Goals Dashboard
-
-![Strategic Goals Dashboard](images/strategic-goals-dashboard.png)
 
 ### Project Performance Dashboard
 
 ![Project Performance Dashboard](images/project-performance-dashboard.png)
+
+### Strategic Goals Dashboard
+
+![Strategic Goals Dashboard](images/strategic-goals-dashboard.png)
